@@ -1,6 +1,0 @@
-leer scanf
-
-
-char buffer[10000];
-
-scanf("[^]",buffer);
