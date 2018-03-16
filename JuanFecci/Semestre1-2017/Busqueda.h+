@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Busqueda {
+	private:
+		vector <int> _vec;
+
+	public:
+		Busqueda(int N);
+		int lineal(int N);
+		int binariaRecursiva(int N, int l, int r);
+		int binariaIterativa(int N);
+};

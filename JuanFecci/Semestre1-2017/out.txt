@@ -1,0 +1,109 @@
+1
+2
+Red Alder
+2
+Ash
+2
+Aspen
+2
+Basswood
+2
+Ash
+2
+Beech
+2
+Yellow Birch
+2
+Ash
+2
+Cherry
+2
+Cottonwood
+2
+Ash
+2
+Cypress
+2
+Red Elm
+2
+Gum
+2
+Hackberry
+2
+White Oak
+2
+Hickory
+2
+Pecan
+2
+Hard Maple
+2
+White Oak
+2
+Soft Maple
+2
+Red Oak
+2
+Red Oak
+2
+White Oak
+2
+Poplan
+2
+Sassafras
+2
+Sycamore
+2
+Black Walnut
+2
+Willow
+2
+
+3
+4
+¿|c|U 13.793103
+4
+}c|U 3.448276
+4
+`}c|U 3.448276
+4
+∞}c|U 3.448276
+4
+ 3.448276
+4
+P~c|U 3.448276
+4
+†~c|U 3.448276
+4
+~c|U 3.448276
+4
+êc|U 3.448276
+4
+‡c|U 3.448276
+4
+ Åc|U 3.448276
+4
+ÄÄc|U 3.448276
+4
+–Äc|U 3.448276
+4
+Çc|U 3.448276
+4
+p|c|U 3.448276
+4
+@c|U 3.448276
+4
+¿Åc|U 6.896552
+4
+`Çc|U 3.448276
+4
+pÅc|U 3.448276
+4
+∞Çc|U 3.448276
+4
+0Äc|U 10.344828
+4
+PÉc|U 3.448276
+4
+ 3.448276
+
